@@ -1,0 +1,1 @@
+# hackathon_vkrum_2025
