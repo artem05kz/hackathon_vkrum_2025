@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - KillZone
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - CamConfiner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3410990393
+    locked: 0
+  - name: Platforms
+    uniqueID: 1306564865
+    locked: 0
+  - name: Enemies
+    uniqueID: 1121822989
+    locked: 0
+  - name: Bullets
+    uniqueID: 4207861591
+    locked: 0
+  - name: Player
+    uniqueID: 3053299931
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

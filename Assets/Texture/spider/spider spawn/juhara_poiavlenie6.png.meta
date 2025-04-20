@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 31870b4fe7bc8c54a9c34b1d97ded097
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3033460177212855732
+    second: juhara_poiavlenie6_0
+  - first:
+      213: 5586702020249773155
+    second: juhara_poiavlenie6_1
+  - first:
+      213: -8113230230283503403
+    second: juhara_poiavlenie6_2
+  - first:
+      213: 3718353665668314651
+    second: juhara_poiavlenie6_3
+  - first:
+      213: -5632385114502088198
+    second: juhara_poiavlenie6_4
+  - first:
+      213: 5804864090527290046
+    second: juhara_poiavlenie6_5
+  - first:
+      213: 2674376587148609005
+    second: juhara_poiavlenie6_6
+  - first:
+      213: -2773724387450167680
+    second: juhara_poiavlenie6_7
+  - first:
+      213: -5220025994921978534
+    second: juhara_poiavlenie6_8
+  - first:
+      213: -6519241458458328592
+    second: juhara_poiavlenie6_9
+  - first:
+      213: -8161587888770280029
+    second: juhara_poiavlenie6_10
+  - first:
+      213: 5387242893173547688
+    second: juhara_poiavlenie6_11
+  - first:
+      213: -4057166207569541225
+    second: juhara_poiavlenie6_12
+  - first:
+      213: -5143281240336251966
+    second: juhara_poiavlenie6_13
+  - first:
+      213: -6484288743703979748
+    second: juhara_poiavlenie6_14
+  - first:
+      213: -8956530662385991343
+    second: juhara_poiavlenie6_15
+  - first:
+      213: -7014018682171718421
+    second: juhara_poiavlenie6_16
+  - first:
+      213: 2883591467751755371
+    second: juhara_poiavlenie6_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d01f85f3091a20800000000000000
+      internalID: 3033460177212855732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 279
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e1f643e3f78d40800000000000000
+      internalID: 5586702020249773155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 249
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8bdfe5714086f80800000000000000
+      internalID: -8113230230283503403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167e6f45fe3a9330800000000000000
+      internalID: 3718353665668314651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9b7eb749fb5d1b0800000000000000
+      internalID: -5632385114502088198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2dc4582250f8050800000000000000
+      internalID: 5804864090527290046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 269
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de54d98265b4d1520800000000000000
+      internalID: 2674376587148609005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 269
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed13d8d50c189d0800000000000000
+      internalID: -2773724387450167680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55de56b30ebe87b0800000000000000
+      internalID: -5220025994921978534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 189
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f187971f600785a0800000000000000
+      internalID: -6519241458458328592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a597be9e073cbe80800000000000000
+      internalID: -8161587888770280029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 229
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a26b565ed453ca40800000000000000
+      internalID: 5387242893173547688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 199
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797491b74dc02b7c0800000000000000
+      internalID: -4057166207569541225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 199
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c3d156f46f98b0800000000000000
+      internalID: -5143281240336251966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 199
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d57a2ebd2306a0800000000000000
+      internalID: -6484288743703979748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 292
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151c698f0d204b380800000000000000
+      internalID: -8956530662385991343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 149
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be48331ab2339ae90800000000000000
+      internalID: -7014018682171718421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juhara_poiavlenie6_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 109
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ec0b87923940820800000000000000
+      internalID: 2883591467751755371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      juhara_poiavlenie6_0: 3033460177212855732
+      juhara_poiavlenie6_1: 5586702020249773155
+      juhara_poiavlenie6_10: -8161587888770280029
+      juhara_poiavlenie6_11: 5387242893173547688
+      juhara_poiavlenie6_12: -4057166207569541225
+      juhara_poiavlenie6_13: -5143281240336251966
+      juhara_poiavlenie6_14: -6484288743703979748
+      juhara_poiavlenie6_15: -8956530662385991343
+      juhara_poiavlenie6_16: -7014018682171718421
+      juhara_poiavlenie6_17: 2883591467751755371
+      juhara_poiavlenie6_2: -8113230230283503403
+      juhara_poiavlenie6_3: 3718353665668314651
+      juhara_poiavlenie6_4: -5632385114502088198
+      juhara_poiavlenie6_5: 5804864090527290046
+      juhara_poiavlenie6_6: 2674376587148609005
+      juhara_poiavlenie6_7: -2773724387450167680
+      juhara_poiavlenie6_8: -5220025994921978534
+      juhara_poiavlenie6_9: -6519241458458328592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

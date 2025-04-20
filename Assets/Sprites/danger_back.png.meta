@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 585a1ad8ba26ec44c8f95cd040ac8a02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6879830011866053922
+    second: danger_back_0
+  - first:
+      213: 991463075036484170
+    second: danger_back_1
+  - first:
+      213: 7602146076681120143
+    second: danger_back_2
+  - first:
+      213: 851165272836168380
+    second: danger_back_3
+  - first:
+      213: 2644188548808005359
+    second: danger_back_4
+  - first:
+      213: 621177145509242913
+    second: danger_back_5
+  - first:
+      213: 3310806924323955599
+    second: danger_back_6
+  - first:
+      213: -4523794306168787538
+    second: danger_back_7
+  - first:
+      213: -2313015222840503503
+    second: danger_back_8
+  - first:
+      213: 110070892734634034
+    second: danger_back_9
+  - first:
+      213: 5118623668396882807
+    second: danger_back_10
+  - first:
+      213: -58247623915674666
+    second: danger_back_11
+  - first:
+      213: -2437219927341899591
+    second: danger_back_12
+  - first:
+      213: 1878435607672827728
+    second: danger_back_13
+  - first:
+      213: 4304967330878517312
+    second: danger_back_14
+  - first:
+      213: 8433647317331683758
+    second: danger_back_15
+  - first:
+      213: -3488300265373055554
+    second: danger_back_16
+  - first:
+      213: 1174781651571152513
+    second: danger_back_17
+  - first:
+      213: 4791510858247262784
+    second: danger_back_18
+  - first:
+      213: 3768437898560126940
+    second: danger_back_19
+  - first:
+      213: 473120956049211090
+    second: danger_back_20
+  - first:
+      213: -5898248991082472036
+    second: danger_back_21
+  - first:
+      213: -4500373467162202916
+    second: danger_back_22
+  - first:
+      213: -6429770351260657751
+    second: danger_back_23
+  - first:
+      213: -3605775100446192965
+    second: danger_back_24
+  - first:
+      213: -8751023891425656255
+    second: danger_back_25
+  - first:
+      213: 383730920124790936
+    second: danger_back_26
+  - first:
+      213: -8274487013498318877
+    second: danger_back_27
+  - first:
+      213: 3697577467312925944
+    second: danger_back_28
+  - first:
+      213: 5614115568696138943
+    second: danger_back_29
+  - first:
+      213: 5815703562881424732
+    second: danger_back_30
+  - first:
+      213: 6890543521365650416
+    second: danger_back_31
+  - first:
+      213: 5001733130522928890
+    second: danger_back_32
+  - first:
+      213: 3614113203675851050
+    second: danger_back_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: danger_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 199
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df854e1f01a7f50800000000000000
+      internalID: 6879830011866053922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1020
+        width: 152
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42577be96262cd00800000000000000
+      internalID: 991463075036484170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1022
+        width: 139
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89253f249f308960800000000000000
+      internalID: 7602146076681120143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1018
+        width: 339
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5c845e42ffcb00800000000000000
+      internalID: 851165272836168380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1021
+        width: 248
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe65bd2c97b02b420800000000000000
+      internalID: 2644188548808005359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1056
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286bac925dde9800800000000000000
+      internalID: 621177145509242913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_6
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1018
+        width: 344
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ab343b5952fd20800000000000000
+      internalID: 3310806924323955599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_7
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1019
+        width: 320
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadefdfeb014831c0800000000000000
+      internalID: -4523794306168787538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_8
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1021
+        width: 208
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1335582e8e486efd0800000000000000
+      internalID: -2313015222840503503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_9
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 867
+        width: 162
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238de8dc4ec078100800000000000000
+      internalID: 110070892734634034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1019
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf3b55b11090740800000000000000
+      internalID: 5118623668396882807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1021
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ee7b3810113ff0800000000000000
+      internalID: -58247623915674666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1018
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0684793614d2ed0800000000000000
+      internalID: -2437219927341899591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa8c89b3b811a10800000000000000
+      internalID: 1878435607672827728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 60
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040fcae8af05ebb30800000000000000
+      internalID: 4304967330878517312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_15
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 613
+        width: 60
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92b7e3d855a0570800000000000000
+      internalID: 8433647317331683758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 61
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c984f361179fc0800000000000000
+      internalID: -3488300265373055554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1869b8610b9ad4010800000000000000
+      internalID: 1174781651571152513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_18
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 383
+        width: 63
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04251433dbdde7240800000000000000
+      internalID: 4791510858247262784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_19
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 265
+        width: 62
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfbbcd7d4e2c4430800000000000000
+      internalID: 3768437898560126940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 62
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3b19b00dd09600800000000000000
+      internalID: 473120956049211090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_21
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 113
+        width: 60
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d19b9fac5352ea0800000000000000
+      internalID: -5898248991082472036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_22
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 252
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc2435fc267b81c0800000000000000
+      internalID: -4500373467162202916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a715c19eedd4c6a0800000000000000
+      internalID: -6429770351260657751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 238
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac4fd76a6b5fdc0800000000000000
+      internalID: -3605775100446192965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 177
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1420e9ab22e1e8680800000000000000
+      internalID: -8751023891425656255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_26
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8983f5f1d39435500800000000000000
+      internalID: 383730920124790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_27
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 261
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef89ddb6ed1b2d80800000000000000
+      internalID: -8274487013498318877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 0
+        width: 238
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcecacad1f605330800000000000000
+      internalID: 3697577467312925944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_29
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 0
+        width: 342
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc9f186d5859ed40800000000000000
+      internalID: 5614115568696138943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_30
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 0
+        width: 373
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5588d39785b050800000000000000
+      internalID: 5815703562881424732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_31
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb6e5433d020af50800000000000000
+      internalID: 6890543521365650416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_32
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 0
+        width: 217
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af62f1a28c9b96540800000000000000
+      internalID: 5001733130522928890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danger_back_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e5237fc8e72230800000000000000
+      internalID: 3614113203675851050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      danger_back_0: 6879830011866053922
+      danger_back_1: 991463075036484170
+      danger_back_10: 5118623668396882807
+      danger_back_11: -58247623915674666
+      danger_back_12: -2437219927341899591
+      danger_back_13: 1878435607672827728
+      danger_back_14: 4304967330878517312
+      danger_back_15: 8433647317331683758
+      danger_back_16: -3488300265373055554
+      danger_back_17: 1174781651571152513
+      danger_back_18: 4791510858247262784
+      danger_back_19: 3768437898560126940
+      danger_back_2: 7602146076681120143
+      danger_back_20: 473120956049211090
+      danger_back_21: -5898248991082472036
+      danger_back_22: -4500373467162202916
+      danger_back_23: -6429770351260657751
+      danger_back_24: -3605775100446192965
+      danger_back_25: -8751023891425656255
+      danger_back_26: 383730920124790936
+      danger_back_27: -8274487013498318877
+      danger_back_28: 3697577467312925944
+      danger_back_29: 5614115568696138943
+      danger_back_3: 851165272836168380
+      danger_back_30: 5815703562881424732
+      danger_back_31: 6890543521365650416
+      danger_back_32: 5001733130522928890
+      danger_back_33: 3614113203675851050
+      danger_back_4: 2644188548808005359
+      danger_back_5: 621177145509242913
+      danger_back_6: 3310806924323955599
+      danger_back_7: -4523794306168787538
+      danger_back_8: -2313015222840503503
+      danger_back_9: 110070892734634034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
