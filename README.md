@@ -1,6 +1,6 @@
-### Проект сделанный в рамках хакатона Vkrum 2025
+# Проект сделанный в рамках хакатона Vkrum 2025
 
-# В проекте были использованы данные ассеты
+### В проекте были использованы данные ассеты
 - https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
 - https://assetstore.unity.com/packages/audio/sound-fx/foley/latches-mechanical-locking-unlocking-sfx-pack1-288178
 - https://assetstore.unity.com/packages/audio/music/pirate-music-pack-232467
