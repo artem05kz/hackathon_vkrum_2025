@@ -1,0 +1,3 @@
+[submodule "Documentation/DocFxForUnity"]
+	path = Documentation/DocFxForUnity
+	url = https://github.com/NormandErwan/DocFxForUnity.git
