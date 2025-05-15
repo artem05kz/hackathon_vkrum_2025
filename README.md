@@ -1,11 +1,88 @@
-# Проект сделанный в рамках хакатона Vkrum 2025
+# Top-Down Shooter
+
+## Краткое описание проекта
+Это 2D-игра на Unity, в которой вы берёте на себя роль бесстрашного лучника, попавшего в таинственные подземелья. Во время путешествия по миру герой натыкается на скрытый вход в пещеру, и как только он входит — за спиной обрушивается каменная стена. Теперь ему предстоит пробиться дальше по лабиринту из коридоров и залов, полных опасностей и загадок.
+
+## Основные механики и особенности
+### Персонаж-лучник
+- Колчан на **5 стрел**, который постепенно пополняется со временем
+- Чем дольше удерживается джойстик прицеливания, тем **быстрее и сильнее** выстрел
+- **Две специальные способности** (перемотка времени и заморозка), каждая с ограничением на использование
+
+### Враги
+- **Скелет-мечник** и **скелет-лучник**.  
+- При активации любой способности на карте появляется агрессивный моб, **не подверженный заморозке**
+- С некоторым шансом при смерти врага выпадает **сердце**, восстанавливающее здоровье
+
+### Интерфейс и HUD
+- **Полоса здоровья**
+- **Индикатор стрел** в колчане
+- Два **джойстика**:  
+  - Для перемещения персонажа  
+  - Для прицеливания  
+- Кнопки активации специальных способностей с **отсчётом перезарядки**
+
+## Техническая реализация
+- **Язык**: C#  
+- **Движок**: Unity  
+  - Встроенная 2D-физика  
+  - Canvas UI для интерфейса  
+- **Навигация врагов**: NavMesh (адаптирован под 2D)  
+- **Временные эффекты**:  
+  - Перемотка времени  
+  - Заморозка времени  
+- **Звук**: централизованная система `Sounds`  
+- **Экранные эффекты**:  
+  - Вспышки при получении урона  
+  - Визуализация заморозки 
+
+## Игровой процесс
+1. Стратегически использовать способности, чтобы избежать агрессивных мобов 
+2. Отстреливать врагов, собирая выпадающие сердца для восстановления HP
+3. Исследовать подземелья
+
+
+## Запуск приложения
+ Перейдите в папку `build` и скачайте файл `hackathon_vkrum_2025.apk`
+
+## Установка и запуск проекта
+1. Клонировать репозиторий
+2. Открыть проект в Unity 6
+3. Собрать и запустить сцену Main
+
+### Зависимости
+- Unity 6
+- Unity 2D
+- Unity Mobile
+- Пакеты
+  - Input System
+  - AI Navigation with `https://github.com/h8man/NavMeshPlus`
+  - 2D Common
+  - Burst
+  - Collections
+  - Core RP Library
+  - Custom NUnit
+  - Mathematics
+  - Unity Profiling Core API
+  - Universal RP Config
+  - Unity Light Transport Library
+  - Test Framework
+  - Splines
+  - Shader Graph
+  - Settings Manager
+  - Mono Cecil
+  - Cinemachine
+  - Unity UI
+  - Universal RP
+
+Система сборки - Проект собирается штатными средствами Unity на платформе Android
 
 ### В проекте были использованы данные ассеты
-- https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
-- https://assetstore.unity.com/packages/audio/sound-fx/foley/latches-mechanical-locking-unlocking-sfx-pack1-288178
-- https://assetstore.unity.com/packages/audio/music/pirate-music-pack-232467
-- https://assetstore.unity.com/packages/audio/sound-fx/free-frost-mage-sfx-249380
-- https://assetstore.unity.com/packages/2d/environments/rogue-fantasy-castle-164725
-- https://assetstore.unity.com/packages/2d/characters/hero-nad-opponents-animation-140776
+- Free Frost Mage SFX
+- Free UI Soundpack
+- Hero nad Opponents Animation
+- Joystick Pack
+- Pirate Music Pack
+- Shooting Sound
 - https://szadiart.itch.io/rogue-fantasy-catacombs
 
