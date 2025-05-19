@@ -1,0 +1,187 @@
+{
+  "api/MyGame.BlockSpawner.html": {
+    "href": "api/MyGame.BlockSpawner.html",
+    "title": "Class BlockSpawner | Top-Down Shooter",
+    "summary": "Class BlockSpawner Inheritance object Object Component Behaviour MonoBehaviour BlockSpawner Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class BlockSpawner : MonoBehaviour Constructors BlockSpawner() Declaration public BlockSpawner() Fields blockPrefab Declaration public FallingBlock blockPrefab Field Value Type Description FallingBlock spawnInterval Declaration public float spawnInterval Field Value Type Description float spawnXMax Declaration public float spawnXMax Field Value Type Description float spawnXMin Declaration public float spawnXMin Field Value Type Description float spawnY Declaration public float spawnY Field Value Type Description float"
+  },
+  "api/MyGame.CharacterAnimations.html": {
+    "href": "api/MyGame.CharacterAnimations.html",
+    "title": "Class CharacterAnimations | Top-Down Shooter",
+    "summary": "Class CharacterAnimations Inheritance object Object Component Behaviour MonoBehaviour CharacterAnimations Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class CharacterAnimations : MonoBehaviour Constructors CharacterAnimations() Declaration public CharacterAnimations() Fields isAiming Declaration public bool isAiming Field Value Type Description bool isDead Declaration public bool isDead Field Value Type Description bool isMoving Declaration public bool isMoving Field Value Type Description bool isShot Declaration public bool isShot Field Value Type Description bool Methods ShotAnimationEnd() Declaration public void ShotAnimationEnd() TriggerRevive() Declaration public void TriggerRevive()"
+  },
+  "api/MyGame.ChargeBar.html": {
+    "href": "api/MyGame.ChargeBar.html",
+    "title": "Class ChargeBar | Top-Down Shooter",
+    "summary": "Class ChargeBar Inheritance object Object Component Behaviour MonoBehaviour ChargeBar Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class ChargeBar : MonoBehaviour Constructors ChargeBar() Declaration public ChargeBar() Methods Hide() Declaration public void Hide() SetCharge(float) Declaration public void SetCharge(float chargeNormalized) Parameters Type Name Description float chargeNormalized Show() Declaration public void Show()"
+  },
+  "api/MyGame.DoorController.html": {
+    "href": "api/MyGame.DoorController.html",
+    "title": "Class DoorController | Top-Down Shooter",
+    "summary": "Class DoorController Inheritance object Object Component Behaviour MonoBehaviour Sounds DoorController Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax [RequireComponent(typeof(SpriteRenderer), typeof(BoxCollider2D))] public class DoorController : Sounds Constructors DoorController() Declaration public DoorController() Fields closedSprite Declaration [Header(\"Sprites\")] public Sprite closedSprite Field Value Type Description Sprite Methods Close() Declaration public void Close() Open() Declaration public void Open()"
+  },
+  "api/MyGame.EnemySpawner.html": {
+    "href": "api/MyGame.EnemySpawner.html",
+    "title": "Class EnemySpawner | Top-Down Shooter",
+    "summary": "Class EnemySpawner Inheritance object Object Component Behaviour MonoBehaviour EnemySpawner Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class EnemySpawner : MonoBehaviour Constructors EnemySpawner() Declaration public EnemySpawner() Fields spawnDistance Declaration public float spawnDistance Field Value Type Description float spiderPrefab Declaration public GameObject spiderPrefab Field Value Type Description GameObject Methods SpawnSpider() Declaration public void SpawnSpider()"
+  },
+  "api/MyGame.FallingBlock.html": {
+    "href": "api/MyGame.FallingBlock.html",
+    "title": "Class FallingBlock | Top-Down Shooter",
+    "summary": "Class FallingBlock Inheritance object Object Component Behaviour MonoBehaviour FallingBlock Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class FallingBlock : MonoBehaviour Constructors FallingBlock() Declaration public FallingBlock() Fields damage Declaration public int damage Field Value Type Description int fallSpeed Declaration public float fallSpeed Field Value Type Description float timeToDead Declaration public float timeToDead Field Value Type Description float"
+  },
+  "api/MyGame.GameController.html": {
+    "href": "api/MyGame.GameController.html",
+    "title": "Class GameController | Top-Down Shooter",
+    "summary": "Class GameController Inheritance object Object Component Behaviour MonoBehaviour Sounds GameController Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class GameController : Sounds Constructors GameController() Declaration public GameController() Fields enemies Declaration [Header(\"Все враги на сцене\")] public List<MonoBehaviour> enemies Field Value Type Description List<MonoBehaviour> Methods RegisterEnemy(MonoBehaviour) Declaration public void RegisterEnemy(MonoBehaviour enemy) Parameters Type Name Description MonoBehaviour enemy UnregisterEnemy(MonoBehaviour) Declaration public void UnregisterEnemy(MonoBehaviour enemy) Parameters Type Name Description MonoBehaviour enemy"
+  },
+  "api/MyGame.GameOverManager.html": {
+    "href": "api/MyGame.GameOverManager.html",
+    "title": "Class GameOverManager | Top-Down Shooter",
+    "summary": "Class GameOverManager Inheritance object Object Component Behaviour MonoBehaviour Sounds GameOverManager Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class GameOverManager : Sounds Constructors GameOverManager() Declaration public GameOverManager() Fields gameOverPanel Declaration [Header(\"UI Game Over\")] public GameObject gameOverPanel Field Value Type Description GameObject rewindButton Declaration public Button rewindButton Field Value Type Description Button rewindWindow Declaration [Tooltip(\"Сколько секунд даётся на Rewind\")] public float rewindWindow Field Value Type Description float Methods ShowGameOver(PersonScript) Declaration public void ShowGameOver(PersonScript player) Parameters Type Name Description PersonScript player"
+  },
+  "api/MyGame.HealthBar.html": {
+    "href": "api/MyGame.HealthBar.html",
+    "title": "Class HealthBar | Top-Down Shooter",
+    "summary": "Class HealthBar Inheritance object Object Component Behaviour MonoBehaviour HealthBar Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class HealthBar : MonoBehaviour Constructors HealthBar() Declaration public HealthBar() Fields person Declaration public PersonScript person Field Value Type Description PersonScript"
+  },
+  "api/MyGame.HealthBarUI.html": {
+    "href": "api/MyGame.HealthBarUI.html",
+    "title": "Class HealthBarUI | Top-Down Shooter",
+    "summary": "Class HealthBarUI Inheritance object Object Component Behaviour MonoBehaviour HealthBarUI Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class HealthBarUI : MonoBehaviour Constructors HealthBarUI() Declaration public HealthBarUI() Fields barRoot Declaration public GameObject barRoot Field Value Type Description GameObject fillImage Declaration public Image fillImage Field Value Type Description Image Methods Hide() Declaration public void Hide() SetHealth(float, float) Declaration public void SetHealth(float current, float max) Parameters Type Name Description float current float max Show() Declaration public void Show()"
+  },
+  "api/MyGame.HealthBarUIEnemy.html": {
+    "href": "api/MyGame.HealthBarUIEnemy.html",
+    "title": "Class HealthBarUIEnemy | Top-Down Shooter",
+    "summary": "Class HealthBarUIEnemy Inheritance object Object Component Behaviour MonoBehaviour HealthBarUIEnemy Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class HealthBarUIEnemy : MonoBehaviour Constructors HealthBarUIEnemy() Declaration public HealthBarUIEnemy() Fields barRoot Declaration public GameObject barRoot Field Value Type Description GameObject fillImage Declaration public Image fillImage Field Value Type Description Image Methods Hide() Declaration public void Hide() SetHealth(float, float) Declaration public void SetHealth(float current, float max) Parameters Type Name Description float current float max Show() Declaration public void Show()"
+  },
+  "api/MyGame.HeartPickup.html": {
+    "href": "api/MyGame.HeartPickup.html",
+    "title": "Class HeartPickup | Top-Down Shooter",
+    "summary": "Class HeartPickup Inheritance object Object Component Behaviour MonoBehaviour HeartPickup Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class HeartPickup : MonoBehaviour Constructors HeartPickup() Declaration public HeartPickup() Fields healAmount Declaration [Tooltip(\"Сколько HP восстанавливает\")] public int healAmount Field Value Type Description int lifeTime Declaration [Tooltip(\"Время жизни до автоудаления (сек)\")] public float lifeTime Field Value Type Description float"
+  },
+  "api/MyGame.IAggroEnemy.html": {
+    "href": "api/MyGame.IAggroEnemy.html",
+    "title": "Interface IAggroEnemy | Top-Down Shooter",
+    "summary": "Interface IAggroEnemy Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public interface IAggroEnemy Methods IsAggroed() Declaration bool IsAggroed() Returns Type Description bool"
+  },
+  "api/MyGame.MainMenu.html": {
+    "href": "api/MyGame.MainMenu.html",
+    "title": "Class MainMenu | Top-Down Shooter",
+    "summary": "Class MainMenu Inheritance object Object Component Behaviour MonoBehaviour Sounds MainMenu Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class MainMenu : Sounds Constructors MainMenu() Declaration public MainMenu() Methods ExitGame() Declaration public void ExitGame() PlayGame() Declaration public void PlayGame()"
+  },
+  "api/MyGame.MeleeAnimations.html": {
+    "href": "api/MyGame.MeleeAnimations.html",
+    "title": "Class MeleeAnimations | Top-Down Shooter",
+    "summary": "Class MeleeAnimations Inheritance object Object Component Behaviour MonoBehaviour MeleeAnimations Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class MeleeAnimations : MonoBehaviour Constructors MeleeAnimations() Declaration public MeleeAnimations() Fields animator Declaration public Animator animator Field Value Type Description Animator isAggro Declaration public bool isAggro Field Value Type Description bool isAttacking Declaration public bool isAttacking Field Value Type Description bool isIdle Declaration public bool isIdle Field Value Type Description bool isMoving Declaration public bool isMoving Field Value Type Description bool Methods DeathEnd() Declaration public void DeathEnd() TriggerAttack() Declaration public void TriggerAttack() TriggerDeath() Declaration public void TriggerDeath() TriggerHit() Declaration public void TriggerHit()"
+  },
+  "api/MyGame.MeleeEnemy.html": {
+    "href": "api/MyGame.MeleeEnemy.html",
+    "title": "Class MeleeEnemy | Top-Down Shooter",
+    "summary": "Class MeleeEnemy Inheritance object Object Component Behaviour MonoBehaviour Sounds MeleeEnemy Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class MeleeEnemy : Sounds Constructors MeleeEnemy() Declaration public MeleeEnemy() Fields aggroRange Declaration public float aggroRange Field Value Type Description float animations Declaration public MeleeAnimations animations Field Value Type Description MeleeAnimations attackCooldown Declaration public float attackCooldown Field Value Type Description float attackDamage Declaration public int attackDamage Field Value Type Description int attackRange Declaration public float attackRange Field Value Type Description float chaseSpeed Declaration public float chaseSpeed Field Value Type Description float heartPrefab Declaration public GameObject heartPrefab Field Value Type Description GameObject hp Declaration public int hp Field Value Type Description int isAggro Declaration public bool isAggro Field Value Type Description bool isRightSide Declaration public bool isRightSide Field Value Type Description bool maxHp Declaration [Header(\"Параметры врага\")] public int maxHp Field Value Type Description int Methods Damage(int) Declaration public void Damage(int dmg) Parameters Type Name Description int dmg OnAttackAnimationEnd() Declaration public void OnAttackAnimationEnd()"
+  },
+  "api/MyGame.MoveScript.html": {
+    "href": "api/MyGame.MoveScript.html",
+    "title": "Class MoveScript | Top-Down Shooter",
+    "summary": "Class MoveScript Inheritance object Object Component Behaviour MonoBehaviour MoveScript Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class MoveScript : MonoBehaviour Constructors MoveScript() Declaration public MoveScript() Fields direction Declaration public Vector2 direction Field Value Type Description Vector2 speed Declaration public float speed Field Value Type Description float"
+  },
+  "api/MyGame.PersonScript.html": {
+    "href": "api/MyGame.PersonScript.html",
+    "title": "Class PersonScript | Top-Down Shooter",
+    "summary": "Class PersonScript Inheritance object Object Component Behaviour MonoBehaviour Sounds PersonScript Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class PersonScript : Sounds Constructors PersonScript() Declaration public PersonScript() Fields aimIndicator Declaration public GameObject aimIndicator Field Value Type Description GameObject arrowReplenishTime Declaration public float arrowReplenishTime Field Value Type Description float chargeBar Declaration public ChargeBar chargeBar Field Value Type Description ChargeBar damageCooldown Declaration public float damageCooldown Field Value Type Description float direction Declaration public Vector2 direction Field Value Type Description Vector2 hp Declaration public int hp Field Value Type Description int invulnerabilityDuration Declaration public float invulnerabilityDuration Field Value Type Description float isDead Declaration public bool isDead Field Value Type Description bool isEnemy Declaration public bool isEnemy Field Value Type Description bool isRightSide Declaration public bool isRightSide Field Value Type Description bool joystickAttack Declaration public Joystick joystickAttack Field Value Type Description Joystick joystickMovement Declaration public Joystick joystickMovement Field Value Type Description Joystick maxArrows Declaration public int maxArrows Field Value Type Description int maxChargeTime Declaration public float maxChargeTime Field Value Type Description float maxHp Declaration public int maxHp Field Value Type Description int quiver Declaration public Quiver quiver Field Value Type Description Quiver shootingRate Declaration public float shootingRate Field Value Type Description float shotPrefab Declaration public Transform shotPrefab Field Value Type Description Transform speed Declaration public Vector2 speed Field Value Type Description Vector2 Properties CanAttack Declaration public bool CanAttack { get; } Property Value Type Description bool Methods Attack(bool) Declaration public void Attack(bool isEnemy) Parameters Type Name Description bool isEnemy Damage(int) Declaration public void Damage(int damageCount) Parameters Type Name Description int damageCount Heal(int) Declaration public void Heal(int amount) Parameters Type Name Description int amount Revive() Declaration public void Revive() ShotAnimationEnd() Declaration public void ShotAnimationEnd()"
+  },
+  "api/MyGame.PointInTime.html": {
+    "href": "api/MyGame.PointInTime.html",
+    "title": "Struct PointInTime | Top-Down Shooter",
+    "summary": "Struct PointInTime Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public struct PointInTime Fields position Declaration public Vector3 position Field Value Type Description Vector3 rotation Declaration public Quaternion rotation Field Value Type Description Quaternion velocity Declaration public Vector3 velocity Field Value Type Description Vector3"
+  },
+  "api/MyGame.Quiver.html": {
+    "href": "api/MyGame.Quiver.html",
+    "title": "Class Quiver | Top-Down Shooter",
+    "summary": "Class Quiver Inheritance object Object Component Behaviour MonoBehaviour Quiver Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class Quiver : MonoBehaviour Constructors Quiver() Declaration public Quiver() Fields quiverImage Declaration public Image quiverImage Field Value Type Description Image quiverSprites Declaration public Sprite[] quiverSprites Field Value Type Description Sprite[] Methods UpdateArrows(int) Declaration public void UpdateArrows(int currentArrows) Parameters Type Name Description int currentArrows"
+  },
+  "api/MyGame.RangedAnimations.html": {
+    "href": "api/MyGame.RangedAnimations.html",
+    "title": "Class RangedAnimations | Top-Down Shooter",
+    "summary": "Class RangedAnimations Inheritance object Object Component Behaviour MonoBehaviour RangedAnimations Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class RangedAnimations : MonoBehaviour Constructors RangedAnimations() Declaration public RangedAnimations() Fields animator Declaration public Animator animator Field Value Type Description Animator isAggro Declaration public bool isAggro Field Value Type Description bool isAttacking Declaration public bool isAttacking Field Value Type Description bool isIdle Declaration public bool isIdle Field Value Type Description bool isMoving Declaration public bool isMoving Field Value Type Description bool Methods DeathEnd() Declaration public void DeathEnd() TriggerAttack() Declaration public void TriggerAttack() TriggerDeath() Declaration public void TriggerDeath() TriggerHit() Declaration public void TriggerHit()"
+  },
+  "api/MyGame.RangedEnemy.html": {
+    "href": "api/MyGame.RangedEnemy.html",
+    "title": "Class RangedEnemy | Top-Down Shooter",
+    "summary": "Class RangedEnemy Inheritance object Object Component Behaviour MonoBehaviour Sounds RangedEnemy Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class RangedEnemy : Sounds Constructors RangedEnemy() Declaration public RangedEnemy() Fields aggroRange Declaration public float aggroRange Field Value Type Description float animations Declaration public RangedAnimations animations Field Value Type Description RangedAnimations attackCooldown Declaration public float attackCooldown Field Value Type Description float attackDamage Declaration public int attackDamage Field Value Type Description int heartPrefab Declaration public GameObject heartPrefab Field Value Type Description GameObject hp Declaration public int hp Field Value Type Description int isAggro Declaration public bool isAggro Field Value Type Description bool isRightSide Declaration public bool isRightSide Field Value Type Description bool maxHp Declaration [Header(\"Параметры врага\")] public int maxHp Field Value Type Description int minDistance Declaration public float minDistance Field Value Type Description float shotPrefab Declaration public Transform shotPrefab Field Value Type Description Transform stepAwayDistance Declaration public float stepAwayDistance Field Value Type Description float Methods Damage(int) Declaration public void Damage(int damageAmount) Parameters Type Name Description int damageAmount OnRangedShot() Declaration public void OnRangedShot()"
+  },
+  "api/MyGame.RoomTrigger.html": {
+    "href": "api/MyGame.RoomTrigger.html",
+    "title": "Class RoomTrigger | Top-Down Shooter",
+    "summary": "Class RoomTrigger Inheritance object Object Component Behaviour MonoBehaviour RoomTrigger Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class RoomTrigger : MonoBehaviour Constructors RoomTrigger() Declaration public RoomTrigger() Fields blockSpawner Declaration public BlockSpawner blockSpawner Field Value Type Description BlockSpawner doorAhead Declaration public DoorController doorAhead Field Value Type Description DoorController doorBehind Declaration public DoorController doorBehind Field Value Type Description DoorController enemyPrefabs Declaration public GameObject[] enemyPrefabs Field Value Type Description GameObject[] enemySpawnPoints Declaration public Transform[] enemySpawnPoints Field Value Type Description Transform[] playerTag Declaration public string playerTag Field Value Type Description string triggerArea Declaration public Collider2D triggerArea Field Value Type Description Collider2D"
+  },
+  "api/MyGame.ScreenEffectsController.html": {
+    "href": "api/MyGame.ScreenEffectsController.html",
+    "title": "Class ScreenEffectsController | Top-Down Shooter",
+    "summary": "Class ScreenEffectsController Inheritance object Object Component Behaviour MonoBehaviour ScreenEffectsController Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class ScreenEffectsController : MonoBehaviour Constructors ScreenEffectsController() Declaration public ScreenEffectsController() Fields damageFlashDuration Declaration public float damageFlashDuration Field Value Type Description float damageOverlay Declaration public Image damageOverlay Field Value Type Description Image freezeDisplayTime Declaration [Header(\"Параметры\")] public float freezeDisplayTime Field Value Type Description float freezeOverlay Declaration [Header(\"Ссылки на UI Image\")] public Image freezeOverlay Field Value Type Description Image lowHealthAlpha Declaration [Range(0, 1)] public float lowHealthAlpha Field Value Type Description float lowHealthThreshold Declaration [Range(0, 1)] public float lowHealthThreshold Field Value Type Description float Methods FlashDamageOverlay() Declaration public void FlashDamageOverlay() ShowFreezeOverlay() Declaration public void ShowFreezeOverlay()"
+  },
+  "api/MyGame.ShotScript.html": {
+    "href": "api/MyGame.ShotScript.html",
+    "title": "Class ShotScript | Top-Down Shooter",
+    "summary": "Class ShotScript Inheritance object Object Component Behaviour MonoBehaviour ShotScript Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class ShotScript : MonoBehaviour Constructors ShotScript() Declaration public ShotScript() Fields damage Declaration public int damage Field Value Type Description int isEnemyShot Declaration public bool isEnemyShot Field Value Type Description bool timeToDead Declaration public float timeToDead Field Value Type Description float"
+  },
+  "api/MyGame.Sounds.html": {
+    "href": "api/MyGame.Sounds.html",
+    "title": "Class Sounds | Top-Down Shooter",
+    "summary": "Class Sounds Inheritance object Object Component Behaviour MonoBehaviour Sounds DoorController GameController GameOverManager MainMenu MeleeEnemy PersonScript RangedEnemy SpiderEnemy TimeAbilityUI VictoryManager Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class Sounds : MonoBehaviour Constructors Sounds() Declaration public Sounds() Fields sounds Declaration public AudioClip[] sounds Field Value Type Description AudioClip[] Methods PlayMusic(AudioClip, float) Declaration public void PlayMusic(AudioClip clip, float volume = 1) Parameters Type Name Description AudioClip clip float volume PlaySound(AudioClip, float, bool, float) Declaration public void PlaySound(AudioClip clip, float volume = 1, bool destroyed = false, float p1 = 1) Parameters Type Name Description AudioClip clip float volume bool destroyed float p1"
+  },
+  "api/MyGame.SpiderAnimations.html": {
+    "href": "api/MyGame.SpiderAnimations.html",
+    "title": "Class SpiderAnimations | Top-Down Shooter",
+    "summary": "Class SpiderAnimations Inheritance object Object Component Behaviour MonoBehaviour SpiderAnimations Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class SpiderAnimations : MonoBehaviour Constructors SpiderAnimations() Declaration public SpiderAnimations() Fields isDead Declaration public bool isDead Field Value Type Description bool isMoving Declaration public bool isMoving Field Value Type Description bool isSpawn Declaration public bool isSpawn Field Value Type Description bool Methods DeadAnimationEnd() Declaration public void DeadAnimationEnd() SpawnAnimationEnd() Declaration public void SpawnAnimationEnd()"
+  },
+  "api/MyGame.SpiderEnemy.html": {
+    "href": "api/MyGame.SpiderEnemy.html",
+    "title": "Class SpiderEnemy | Top-Down Shooter",
+    "summary": "Class SpiderEnemy Inheritance object Object Component Behaviour MonoBehaviour Sounds SpiderEnemy Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class SpiderEnemy : Sounds Constructors SpiderEnemy() Declaration public SpiderEnemy() Fields attackCooldown Declaration public float attackCooldown Field Value Type Description float attackDamage Declaration public int attackDamage Field Value Type Description int attackRange Declaration public float attackRange Field Value Type Description float isRightSide Declaration public bool isRightSide Field Value Type Description bool maxHp Declaration public int maxHp Field Value Type Description int Methods Damage(int) Declaration public void Damage(int damageAmount) Parameters Type Name Description int damageAmount"
+  },
+  "api/MyGame.TimeAbilityUI.html": {
+    "href": "api/MyGame.TimeAbilityUI.html",
+    "title": "Class TimeAbilityUI | Top-Down Shooter",
+    "summary": "Class TimeAbilityUI Inheritance object Object Component Behaviour MonoBehaviour Sounds TimeAbilityUI Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class TimeAbilityUI : Sounds Constructors TimeAbilityUI() Declaration public TimeAbilityUI() Fields abilityCooldown Declaration [Tooltip(\"Время перезарядки способностей в секундах\")] public float abilityCooldown Field Value Type Description float freezeButton Declaration public Button freezeButton Field Value Type Description Button rewindButton Declaration public Button rewindButton Field Value Type Description Button"
+  },
+  "api/MyGame.TimeBody.html": {
+    "href": "api/MyGame.TimeBody.html",
+    "title": "Class TimeBody | Top-Down Shooter",
+    "summary": "Class TimeBody Inheritance object Object Component Behaviour MonoBehaviour TimeBody Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class TimeBody : MonoBehaviour Constructors TimeBody() Declaration public TimeBody() Fields canBeFrozen Declaration [Tooltip(\"Можно ли замораживать этот объект?\")] public bool canBeFrozen Field Value Type Description bool isRewindable Declaration [Header(\"Настройки записи\")] public bool isRewindable Field Value Type Description bool recordTime Declaration [Tooltip(\"За сколько секунд сохранять историю\")] public float recordTime Field Value Type Description float Properties IsFrozen Declaration public bool IsFrozen { get; } Property Value Type Description bool IsRewinding Declaration public bool IsRewinding { get; } Property Value Type Description bool Methods Freeze() Declaration public void Freeze() StartRewind() Declaration public void StartRewind() StopRewind() Declaration public void StopRewind() Unfreeze() Declaration public void Unfreeze()"
+  },
+  "api/MyGame.TimeManager.html": {
+    "href": "api/MyGame.TimeManager.html",
+    "title": "Class TimeManager | Top-Down Shooter",
+    "summary": "Class TimeManager Inheritance object Object Component Behaviour MonoBehaviour TimeManager Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class TimeManager : MonoBehaviour Constructors TimeManager() Declaration public TimeManager() Fields Instance Declaration public static TimeManager Instance Field Value Type Description TimeManager freezeDuration Declaration [Tooltip(\"Длительность эффекта заморозки (в секундах)\")] public float freezeDuration Field Value Type Description float rewindDuration Declaration [Header(\"Настройки времени\")] [Tooltip(\"Длительность эффекта перемотки (в секундах)\")] public float rewindDuration Field Value Type Description float Properties IsFrozen Declaration public bool IsFrozen { get; } Property Value Type Description bool IsRewind Declaration public bool IsRewind { get; } Property Value Type Description bool Methods StartTimeFreeze() Declaration public void StartTimeFreeze() StartTimeRewind() Declaration public void StartTimeRewind() StopTimeFreeze() Declaration public void StopTimeFreeze() StopTimeRewind() Declaration public void StopTimeRewind()"
+  },
+  "api/MyGame.TriggerDoor.html": {
+    "href": "api/MyGame.TriggerDoor.html",
+    "title": "Class TriggerDoor | Top-Down Shooter",
+    "summary": "Class TriggerDoor Inheritance object Object Component Behaviour MonoBehaviour TriggerDoor Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class TriggerDoor : MonoBehaviour Constructors TriggerDoor() Declaration public TriggerDoor() Fields doorAhead Declaration public DoorController doorAhead Field Value Type Description DoorController doorBehind Declaration public DoorController doorBehind Field Value Type Description DoorController enemyPrefabs Declaration public GameObject[] enemyPrefabs Field Value Type Description GameObject[] enemySpawnPoints Declaration public Transform[] enemySpawnPoints Field Value Type Description Transform[] playerTag Declaration public string playerTag Field Value Type Description string triggerArea Declaration public Collider2D triggerArea Field Value Type Description Collider2D"
+  },
+  "api/MyGame.VictoryManager.html": {
+    "href": "api/MyGame.VictoryManager.html",
+    "title": "Class VictoryManager | Top-Down Shooter",
+    "summary": "Class VictoryManager Inheritance object Object Component Behaviour MonoBehaviour Sounds VictoryManager Inherited Members Sounds.sounds Sounds.PlaySound(AudioClip, float, bool, float) Sounds.PlayMusic(AudioClip, float) Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class VictoryManager : Sounds Constructors VictoryManager() Declaration public VictoryManager() Fields menuDelay Declaration public float menuDelay Field Value Type Description float victoryPanel Declaration public GameObject victoryPanel Field Value Type Description GameObject Methods ShowVictory() Declaration public void ShowVictory()"
+  },
+  "api/MyGame.WinTrigger.html": {
+    "href": "api/MyGame.WinTrigger.html",
+    "title": "Class WinTrigger | Top-Down Shooter",
+    "summary": "Class WinTrigger Inheritance object Object Component Behaviour MonoBehaviour WinTrigger Namespace: MyGame Assembly: Assembly-CSharp.dll Syntax public class WinTrigger : MonoBehaviour Constructors WinTrigger() Declaration public WinTrigger()"
+  },
+  "api/MyGame.html": {
+    "href": "api/MyGame.html",
+    "title": "Namespace MyGame | Top-Down Shooter",
+    "summary": "Namespace MyGame Classes BlockSpawner CharacterAnimations ChargeBar DoorController EnemySpawner FallingBlock GameController GameOverManager HealthBar HealthBarUI HealthBarUIEnemy HeartPickup MainMenu MeleeAnimations MeleeEnemy MoveScript PersonScript Quiver RangedAnimations RangedEnemy RoomTrigger ScreenEffectsController ShotScript Sounds SpiderAnimations SpiderEnemy TimeAbilityUI TimeBody TimeManager TriggerDoor VictoryManager WinTrigger Structs PointInTime Interfaces IAggroEnemy"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Top-Down Shooter | Top-Down Shooter",
+    "summary": "Top-Down Shooter Краткое описание проекта Это 2D-игра на Unity, в которой вы берёте на себя роль бесстрашного лучника, попавшего в таинственные подземелья. Во время путешествия по миру герой натыкается на скрытый вход в пещеру, и как только он входит — за спиной обрушивается каменная стена. Теперь ему предстоит пробиться дальше по лабиринту из коридоров и залов, полных опасностей и загадок. Основные механики и особенности Персонаж-лучник Колчан на 5 стрел, который постепенно пополняется со временем Чем дольше удерживается джойстик прицеливания, тем быстрее и сильнее выстрел Две специальные способности (перемотка времени и заморозка), каждая с ограничением на использование Враги Скелет-мечник и скелет-лучник. При активации любой способности на карте появляется агрессивный моб, не подверженный заморозке С некоторым шансом при смерти врага выпадает сердце, восстанавливающее здоровье Интерфейс и HUD Полоса здоровья Индикатор стрел в колчане Два джойстика: Для перемещения персонажа Для прицеливания Кнопки активации специальных способностей с отсчётом перезарядки Техническая реализация Язык: C# Движок: Unity Встроенная 2D-физика Canvas UI для интерфейса Навигация врагов: NavMesh (адаптирован под 2D) Временные эффекты: Перемотка времени Заморозка времени Звук: централизованная система Sounds Экранные эффекты: Вспышки при получении урона Визуализация заморозки Игровой процесс Стратегически использовать способности, чтобы избежать агрессивных мобов Отстреливать врагов, собирая выпадающие сердца для восстановления HP Исследовать подземелья Запуск приложения Перейдите в папку build и скачайте файл hackathon_vkrum_2025.apk Установка и запуск проекта Клонировать репозиторий Открыть проект в Unity 6 Собрать и запустить сцену Main Зависимости Unity 6 Unity 2D Unity Mobile Пакеты Input System AI Navigation with https://github.com/h8man/NavMeshPlus 2D Common Burst Collections Core RP Library Custom NUnit Mathematics Unity Profiling Core API Universal RP Config Unity Light Transport Library Test Framework Splines Shader Graph Settings Manager Mono Cecil Cinemachine Unity UI Universal RP Система сборки - Проект собирается штатными средствами Unity на платформе Android В проекте были использованы данные ассеты Free Frost Mage SFX Free UI Soundpack Hero nad Opponents Animation Joystick Pack Pirate Music Pack Shooting Sound https://szadiart.itch.io/rogue-fantasy-catacombs"
+  },
+  "manual/README.html": {
+    "href": "manual/README.html",
+    "title": "Top-Down Shooter | Top-Down Shooter",
+    "summary": "Top-Down Shooter Краткое описание проекта Это 2D-игра на Unity, в которой вы берёте на себя роль бесстрашного лучника, попавшего в таинственные подземелья. Во время путешествия по миру герой натыкается на скрытый вход в пещеру, и как только он входит — за спиной обрушивается каменная стена. Теперь ему предстоит пробиться дальше по лабиринту из коридоров и залов, полных опасностей и загадок. Основные механики и особенности Персонаж-лучник Колчан на 5 стрел, который постепенно пополняется со временем Чем дольше удерживается джойстик прицеливания, тем быстрее и сильнее выстрел Две специальные способности (перемотка времени и заморозка), каждая с ограничением на использование Враги Скелет-мечник и скелет-лучник. При активации любой способности на карте появляется агрессивный моб, не подверженный заморозке С некоторым шансом при смерти врага выпадает сердце, восстанавливающее здоровье Интерфейс и HUD Полоса здоровья Индикатор стрел в колчане Два джойстика: Для перемещения персонажа Для прицеливания Кнопки активации специальных способностей с отсчётом перезарядки Техническая реализация Язык: C# Движок: Unity Встроенная 2D-физика Canvas UI для интерфейса Навигация врагов: NavMesh (адаптирован под 2D) Временные эффекты: Перемотка времени Заморозка времени Звук: централизованная система Sounds Экранные эффекты: Вспышки при получении урона Визуализация заморозки Игровой процесс Стратегически использовать способности, чтобы избежать агрессивных мобов Отстреливать врагов, собирая выпадающие сердца для восстановления HP Исследовать подземелья Запуск приложения Перейдите в папку build и скачайте файл hackathon_vkrum_2025.apk Установка и запуск проекта Клонировать репозиторий Открыть проект в Unity 6 Собрать и запустить сцену Main Зависимости Unity 6 Unity 2D Unity Mobile Пакеты Input System AI Navigation with https://github.com/h8man/NavMeshPlus 2D Common Burst Collections Core RP Library Custom NUnit Mathematics Unity Profiling Core API Universal RP Config Unity Light Transport Library Test Framework Splines Shader Graph Settings Manager Mono Cecil Cinemachine Unity UI Universal RP Система сборки - Проект собирается штатными средствами Unity на платформе Android В проекте были использованы данные ассеты Free Frost Mage SFX Free UI Soundpack Hero nad Opponents Animation Joystick Pack Pirate Music Pack Shooting Sound https://szadiart.itch.io/rogue-fantasy-catacombs"
+  }
+}

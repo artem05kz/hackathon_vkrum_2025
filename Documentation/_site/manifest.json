@@ -1,0 +1,578 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://artem05kz.github.io/DocFxForUnity/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://artem05kz.github.io/DocFxForUnity/",
+    "changefreq": "weekly"
+  },
+  "source_base_path": "C:/Users/artem/hackathon_vkrum_2025/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.BlockSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.BlockSpawner.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.BlockSpawner",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.CharacterAnimations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.CharacterAnimations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.CharacterAnimations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.ChargeBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.ChargeBar.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.ChargeBar",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.DoorController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.DoorController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.DoorController",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.EnemySpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.EnemySpawner.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.EnemySpawner",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.FallingBlock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.FallingBlock.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.FallingBlock",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.GameController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.GameController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.GameController",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.GameOverManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.GameOverManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.GameOverManager",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.HealthBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.HealthBar.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.HealthBar",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.HealthBarUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.HealthBarUI.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.HealthBarUI",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.HealthBarUIEnemy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.HealthBarUIEnemy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.HealthBarUIEnemy",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.HeartPickup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.HeartPickup.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.HeartPickup",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.IAggroEnemy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.IAggroEnemy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.IAggroEnemy",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.MainMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.MainMenu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.MainMenu",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.MeleeAnimations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.MeleeAnimations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.MeleeAnimations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.MeleeEnemy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.MeleeEnemy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.MeleeEnemy",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.MoveScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.MoveScript.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.MoveScript",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.PersonScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.PersonScript.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.PersonScript",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.PointInTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.PointInTime.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.PointInTime",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.Quiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.Quiver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.Quiver",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.RangedAnimations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.RangedAnimations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.RangedAnimations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.RangedEnemy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.RangedEnemy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.RangedEnemy",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.RoomTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.RoomTrigger.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.RoomTrigger",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.ScreenEffectsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.ScreenEffectsController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.ScreenEffectsController",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.ShotScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.ShotScript.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.ShotScript",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.Sounds.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.Sounds.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.Sounds",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.SpiderAnimations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.SpiderAnimations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.SpiderAnimations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.SpiderEnemy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.SpiderEnemy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.SpiderEnemy",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.TimeAbilityUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.TimeAbilityUI.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.TimeAbilityUI",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.TimeBody.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.TimeBody.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.TimeBody",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.TimeManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.TimeManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.TimeManager",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.TriggerDoor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.TriggerDoor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.TriggerDoor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.VictoryManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.VictoryManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.VictoryManager",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.WinTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.WinTrigger.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame.WinTrigger",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MyGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MyGame.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "MyGame",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html"
+        },
+        ".json": {
+          "relative_path": "manual/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
